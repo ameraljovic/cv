@@ -104,6 +104,35 @@
             "descriptionTextBlocks" : [
                 "Design und Entwicklung von Batch jobs."
             ]
+        },
+        {
+            "fromDate"        : "2013-01-15",
+            "toDate"          : "2014-07-31",
+            "companyName"     : "Elektroprivreda BiH",
+            "companyWebsite"  : "http://www.elektroprivreda.ba",
+            "companyCity"     : "Sarajevo",
+            "position"        : "Software Entwickler",
+            "project"         : "Master Data Management",
+            "softwareUsed" : [
+                "Java", "Spring Batch", "Hibernate", "Oracle", "Maven", "SVN", "Glassfish", "JAX-WS"
+            ],
+            "descriptionTextBlocks" : [
+                "Integration von drei Metering Systemen in ein einheitliches Master Data Management System.",
+                "Verarbeitung und Validierung von messdaten."
+            ]
+        },
+        {
+            "fromDate"        : "2012-11-01",
+            "toDate"          : "2012-12-31",
+            "companyName"     : "Ceit Software Solutions",
+            "companyWebsite"  : "http://pulse-learning.co.uk",
+            "companyCity"     : "Sarajevo",
+            "position"        : "Web Entwickler",
+            "project"         : "Pulse Learning website",
+            "softwareUsed" : [
+                "PHP", "Javascript", "jQuery", "Zend Framework", "SVN"
+            ],
+            "descriptionTextBlocks" : []
         }
     ]
 
