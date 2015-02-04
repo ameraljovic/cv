@@ -63,13 +63,13 @@
         }
     ],
     "aboutme" : [
-        { "text" : "Computer Science Studium auf Algorithmen und Data Mining." },
-        { "text" : "Java Entwickler mit Schwerpunkt auf Spring." },
-        { "text" : "Android Entwickler in der Freizeit." }
+        "Computer Science Studium auf Algorithmen und Data Mining.",
+        "Java Entwickler mit Schwerpunkt auf Spring." ,
+        "Android Entwickler in der Freizeit."
     ],
     "experience" : [
-        { "text" : "3 Jahre Java Entwicklung (Andorid und Java EE)" },
-        { "text" : "2 Jahre mit Spring Batch und Web Services" }
+        "3 Jahre Java Entwicklung (Andorid und Java EE)",
+        "2 Jahre mit Spring Batch und Web Services"
     ],
     "methodicalskills" : [
         "Test-Driven Development" 
@@ -78,16 +78,16 @@
         "Meterinsysteme im Energiesektor"
     ],
     "itskills" : [
-        { "text" : "Java, C#, C/C++, JavaScript (jQuery)" },
-        { "text" : "Spring Batch, Spring MVC, Spring Data, Spring Boot, Hibernate, Android, Flyway" },
-        { "text" : "Gradle, Maven, Jenkins" },
-        { "text" : "Oracle, MySQL" },
-        { "text" : "JUnit, Mockito" },
-        { "text" : "Git, SVN" },
-        { "text" : "Tomcat, Glassfish" },
-        { "text" : "IntelliJ IDEA, eclipse, Git, SVN" },
-        { "text" : "MacOS, Windows, Linux (Ubuntu)" },
-        { "text" : "XHTML, HTML 5, CSS" }
+        "Java, C#, C/C++, JavaScript (jQuery)" ,
+        "Spring Batch, Spring MVC, Spring Data, Spring Boot, Hibernate, Android, Flyway" ,
+        "Gradle, Maven, Jenkins" ,
+        "Oracle, MySQL" ,
+        "JUnit, Mockito" ,
+        "Git, SVN" ,
+        "Tomcat, Glassfish" ,
+        "IntelliJ IDEA, eclipse, Git, SVN" ,
+        "MacOS, Windows, Linux (Ubuntu)" ,
+        "XHTML, HTML 5, CSS"
     ],
     "projecthistory" : [
         {
