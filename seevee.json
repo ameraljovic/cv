@@ -69,7 +69,7 @@
     ],
     "experience" : [
         { "text" : "3 Jahre Java Entwicklung (Andorid und Java EE)" },
-        { "text" : "2 Jahre mit Spring Batch und Web Services" },
+        { "text" : "2 Jahre mit Spring Batch und Web Services" }
     ],
     "methodicalskills" : [
         "Test-Driven Development" 
@@ -87,7 +87,7 @@
         { "text" : "Tomcat, Glassfish" },
         { "text" : "IntelliJ IDEA, eclipse, Git, SVN" },
         { "text" : "MacOS, Windows, Linux (Ubuntu)" }
-        { "text" : "XHTML, HTML 5, CSS" },
+        { "text" : "XHTML, HTML 5, CSS" }
     ],
     "projecthistory" : [
         {
