@@ -32,14 +32,7 @@
             "percentage" : 85
         }
     ],
-    "certifications" : [
-        {
-            "certificationshortname"  : "Worlds fluffiest thingy",
-            "certificationtooltip"    : "feel the fluff!",
-            "certificationtooltipurl" : "",
-            "showcase": true
-        }
-    ],
+    "certifications" : [],
     "topskills"  : [
         {
             "name"        : "Java",
@@ -63,7 +56,7 @@
         }
     ],
     "aboutme" : [
-        "Computer Science Studium auf Algorithmen und Data Mining.",
+        "Computer Science Studium mit Schwerpunkt auf Algorithmen und Data Mining.",
         "Java Entwickler mit Schwerpunkt auf Spring." ,
         "Android Entwickler in der Freizeit."
     ],
