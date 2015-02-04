@@ -1,35 +1,35 @@
 {
-    "firstname"   : "Fluffy",
-    "lastname"    : "Fluffster",
-    "dateofbirth" : "01.08.1980",
-    "title"       : "Bachelor of Fluff",
-    "jobtitle"    : "Chief Executive Flufficer",
-    "company"     : "Fluffmazing Co.",
+    "firstname"   : "Amer",
+    "lastname"    : "Aljovic",
+    "dateofbirth" : "16.11.1988",
+    "title"       : "",
+    "jobtitle"    : "Lean Java Expert",
+    "company"     : "comSysto GmbH",
     "contact"     : {
-        "landline" : "+99 999 666 333",
-        "mobile"   : "+99 999 666 222",
-        "email"    : "fluffy@fluffmazing.üü",
-        "website"  : "fluffmazing.üü",
+        "landline" : "",
+        "mobile"   : "+49 151 111 223 09",
+        "email"    : "amer.aljovic@comsysto.com",
+        "website"  : "http://comsysto.com",
         "address" : {
-            "street"      : "Softstreet 2",
-            "postalcode"  : "77777",
-            "city"        : "Fluffington",
-            "country"     : "United Statees of Fluff",
-            "state"       : "Fluffrida"
+            "street"      : "Tumblingerstr. 23",
+            "postalcode"  : "80337",
+            "city"        : "München",
+            "country"     : "Bayern",
+            "state"       : "Deutschland"
         }
     },
-    "qualification":                "",
-    "qualificationalinstitution" : 	"",
+    "qualification":                "Bachelor of Computer Science",
+    "qualificationalinstitution" : 	"Faculty of Electrical Engineering Sarajevo",
     "languages" : [
         {
-            "name"       : "",
-            "isocode"    : "",
-            "percentage" : 0
+            "name"       : "Deutsch",
+            "isocode"    : "de",
+            "percentage" : 95
         },
         {
-            "name"       : "",
-            "isocode"    : "",
-            "percentage" : 0
+            "name"       : "Englisch",
+            "isocode"    : "en",
+            "percentage" : 85
         }
     ],
     "certifications" : [
@@ -42,43 +42,67 @@
     ],
     "topskills"  : [
         {
-            "name"        : "Being fluffy",
-            "percentage"  : 100
+            "name"        : "Java",
+            "percentage"  : 90
         },
         {
-            "name"        : "Being solid",
-            "percentage"  : 5
+            "name"        : "Spring",
+            "percentage"  : 90
+        },
+        {
+            "name"        : "Hibernate",
+            "percentage"  : 70
+        },
+        {
+            "name"        : "Maven",
+            "percentage"  : 70
+        },
+        {
+            "name"        : "Android",
+            "percentage"  : 65
         }
     ],
     "aboutme" : [
-        "I love training the fluff."
+        { "text" : "Computer Science Studium auf Algorithmen und Data Mining." },
+        { "text" : "Java Entwickler mit Schwerpunkt auf Spring." },
+        { "text" : "Android Entwickler in der Freizeit." }
     ],
     "experience" : [
-        "3 Years Fluff Master"
+        { "text" : "3 Jahre Java Entwicklung (Andorid und Java EE)" },
+        { "text" : "2 Jahre mit Spring Batch und Web Services" },
     ],
     "methodicalskills" : [
-        "When I work then with Scrum and Kanban ... but most of the time I am just fluffy."
+        "Test-Driven Development" 
     ],
     "industryskills" : [
-        "textile industry"
+        "Meterinsysteme im Energiesektor"
     ],
     "itskills" : [
-        "Groovy"
+        { "text" : "Java, C#, C/C++, JavaScript (jQuery)" },
+        { "text" : "Spring Batch, Spring MVC, Spring Data, Spring Boot, Hibernate, Android, Flyway" },
+        { "text" : "Gradle, Maven, Jenkins" },
+        { "text" : "Oracle, MySQL" },
+        { "text" : "JUnit, Mockito" },
+        { "text" : "Git, SVN" },
+        { "text" : "Tomcat, Glassfish" },
+        { "text" : "IntelliJ IDEA, eclipse, Git, SVN" },
+        { "text" : "MacOS, Windows, Linux (Ubuntu)" }
+        { "text" : "XHTML, HTML 5, CSS" },
     ],
     "projecthistory" : [
         {
-            "fromDate"        : "1983-01-01",
-            "toDate"          : "1986-03-01",
-            "companyName"     : "Chief Executive Flufficer",
-            "companyWebsite"  : "",
-            "companyCity"     : "Fluffmazing Co.",
-            "position"        : "Chief Executive Flufficer",
-            "project"         : "everything",
+            "fromDate"        : "2014-10-13",
+            "toDate"          : "2014-12-31",
+            "companyName"     : "PAYBACK GmbH",
+            "companyWebsite"  : "http://www.payback.de",
+            "companyCity"     : "München",
+            "position"        : "Software Entwickler",
+            "project"         : "PAYBACK Global",
             "softwareUsed" : [
-                "Groovy", "Java"
+                "Java", "Spring Batch", "Hibernate", "Oracle", "Maven", "Jenkins", "SVN"
             ],
             "descriptionTextBlocks" : [
-                "I was da BOSS!"
+                "Design und Entwicklung von Batch jobs."
             ]
         }
     ]
