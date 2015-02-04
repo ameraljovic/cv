@@ -86,7 +86,7 @@
         { "text" : "Git, SVN" },
         { "text" : "Tomcat, Glassfish" },
         { "text" : "IntelliJ IDEA, eclipse, Git, SVN" },
-        { "text" : "MacOS, Windows, Linux (Ubuntu)" }
+        { "text" : "MacOS, Windows, Linux (Ubuntu)" },
         { "text" : "XHTML, HTML 5, CSS" }
     ],
     "projecthistory" : [
