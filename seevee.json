@@ -77,10 +77,10 @@
         "Meteringsysteme im Energiesektor"
     ],
     "itskills" : [
-        "Java, C#, C/C++, JavaScript (jQuery)" ,
-        "Spring Batch, Spring MVC, Spring Data, Spring Boot, Hibernate, Android, Flyway" ,
+        "Java, C#, C/C++, JavaScript" ,
+        "Spring Batch, Spring MVC, Spring Data, Spring Boot, Hibernate, Apache Spark, Android, Flyway" ,
         "Gradle, Maven, Jenkins" ,
-        "Oracle, MySQL" ,
+        "Oracle, MySQL, MongoDB" ,
         "JUnit, Mockito" ,
         "Git, SVN" ,
         "Tomcat, Glassfish" ,
