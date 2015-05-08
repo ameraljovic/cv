@@ -5,7 +5,7 @@
     "title"       : "",
     "jobtitle"    : "Lean Java Expert",
     "company"     : "comSysto GmbH",
-    "contact"     : {
+    "contact"     : {ce
         "landline" : "",
         "mobile"   : "+49 151 111 223 09",
         "email"    : "amer.aljovic@comsysto.com",
@@ -32,7 +32,13 @@
             "percentage" : 85
         }
     ],
-    "certifications" : [],
+    "certifications" : [
+        {
+            "certificationshortname"  : "M101J: MongoDB for Java Developers", 
+            "certificationtooltipurl" : "https://university.mongodb.com/courses/M101J/about",
+            "showcase": true
+        }    
+    ],
     "topskills"  : [
         {
             "name"        : "Java",
