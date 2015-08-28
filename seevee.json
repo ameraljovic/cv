@@ -61,6 +61,10 @@
             "percentage"  : 70
         },
         {
+            "name"        : "Scala",
+            "percentage"  : 60
+        },
+        {
             "name"        : "Android",
             "percentage"  : 65
         }
@@ -81,7 +85,7 @@
         "Meteringsysteme im Energiesektor"
     ],
     "itskills" : [
-        "Java, C/C++" ,
+        "Java, Scala, C/C++" ,
         "Spring Batch, Spring MVC, Spring Data, Spring Boot, Hibernate, Apache Spark, Android, Flyway" ,
         "Gradle, Maven, Jenkins" ,
         "Oracle, MySQL, MongoDB" ,
