@@ -50,10 +50,14 @@
         },
         {
             "name"        : "Hibernate",
-            "percentage"  : 70
+            "percentage"  : 80
         },
         {
             "name"        : "Maven",
+            "percentage"  : 70
+        },
+        {
+            "name"        : "Apache Spark",
             "percentage"  : 70
         },
         {
@@ -63,12 +67,12 @@
     ],
     "aboutme" : [
         "Computer Science Studium mit Schwerpunkt auf Algorithmen und Data Mining.",
-        "Java Entwickler mit Schwerpunkt auf Spring." ,
+        "Java Entwickler mit Schwerpunkt auf Datenverarbeitung mit Spring Technologien." ,
         "Android Entwickler in der Freizeit."
     ],
     "experience" : [
         "3 Jahre Java Entwicklung (Andorid und Java EE)",
-        "2 Jahre mit Spring Batch und Web Services"
+        "2 Jahre mit Spring Batch und Web Servicen"
     ],
     "methodicalskills" : [
         "Test-Driven Development" 
@@ -77,21 +81,21 @@
         "Meteringsysteme im Energiesektor"
     ],
     "itskills" : [
-        "Java, C#, C/C++, JavaScript" ,
+        "Java, C/C++" ,
         "Spring Batch, Spring MVC, Spring Data, Spring Boot, Hibernate, Apache Spark, Android, Flyway" ,
         "Gradle, Maven, Jenkins" ,
         "Oracle, MySQL, MongoDB" ,
         "JUnit, Mockito" ,
         "Git, SVN" ,
         "Tomcat, Glassfish" ,
-        "IntelliJ IDEA, eclipse, Git, SVN" ,
-        "MacOS, Windows, Linux (Ubuntu)" ,
+        "IntelliJ IDEA, Eclipse, Git, SVN" ,
+        "MacOS, Linux, Windows" ,
         "XHTML, HTML 5, CSS"
     ],
     "projecthistory" : [
         {
             "fromDate"        : "2014-10-13",
-            "toDate"          : "2015-05-01",
+            "toDate"          : "2015-09-31",
             "companyName"     : "PAYBACK GmbH",
             "companyWebsite"  : "http://www.payback.de",
             "companyCity"     : "München",
@@ -101,7 +105,7 @@
                 "Java", "Spring Batch", "Hibernate", "Oracle", "Maven", "Jenkins", "SVN"
             ],
             "descriptionTextBlocks" : [
-                "Design und Entwicklung von Batch jobs."
+                "Design und Entwicklung einem Internen Batch Frameworks basierend auf Spring Batch."
             ]
         },
         {
@@ -117,7 +121,7 @@
             ],
             "descriptionTextBlocks" : [
                 "Integration von drei Metering Systemen in ein einheitliches Master Data Management System.",
-                "Verarbeitung und Validierung von messdaten."
+                "Verarbeitung und Validierung von Messdaten."
             ]
         },
         {
